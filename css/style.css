@@ -1,0 +1,100 @@
+.MF{
+	background-color: black;
+	height: 100px;
+}
+
+.Home{
+	height: 50px;
+}
+
+.h1,
+.h4{
+	line-height: 2;
+}
+.h5{
+	line-height: 2.5;
+}
+
+.foto{
+	height: 240px;
+}
+
+#container{
+	background-color: black;
+}
+
+.alignButton{
+	float: right;
+}
+
+
+
+
+
+
+
+
+
+.heart {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background: url(../img/like.png) no-repeat;  
+  cursor: pointer;
+  
+}
+.heart-blast {
+  background-position: -2800px 0;
+  transition: background 1s steps(28);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .span4 img {
+    margin-right: 10px;
+}
+.span4 .img-left {
+    float: left;
+}
+.span4 .img-right {
+    float: right;
+}
+.kiste{
+	margin-left: 0;
+	margin-right: 0;
+	background-color: black;
+	border: 10px solid #343a40;
+}
+.kleine-kiste{
+	border: 4px solid black;
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

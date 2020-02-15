@@ -1,0 +1,52 @@
+var info = [
+
+    {
+      "name":"Ralph Breaks The Internet 2",
+      "desc":"Als ein WLAN-Router in der Spielhalle Einzug h&#228;lt, gehen Randale-Ralph und Vanellope online, rauschen auf der Datenautobahn einmal quer durchs Internet und bringen von Online-Games &#252;ber....",
+      "image":"img/bestKids2.jpg"
+    },
+
+    {
+      "name":"Soeur d'armes",
+      "desc":" Es ist vor allem ein Film &#252;ber Frauen als Quelle des Widerstands gegen den Fanatismus. Er erz&#228;hlt die Geschichte der jungen Jesidin Zara, die vom IS deportiert und versklavt wurde. Sie schaffte es zu fliehen und schloss sich als Teil einer internationalen Frauen-Kampftruppe dem kurdischen Widerstand an.",
+      "image":"img/sisters.jpg"
+    },
+
+    {
+      "name":"Home Alone 1",
+      "desc":"Dieses Jahr fliegt die gesamte McAllister-Familie nach Frankreich, um dort gemeinsam Weihnachten zu feiern. Leider haben sie bei ihrer hektischen Abreise ihren achtj&#228;hrigen Spr&#246;&#223;ling Kevin zu Hause vergessen....",
+      "image":"img/HomeAlone.jpg"
+    },
+
+    {
+      "name":"Maleficent 2",
+      "desc":"Prinzessin Aurora ist erwachsen geworden. Ihre Hochzeit steht bevor und bald steht auch ihre Kr&#246nung an. Gemeinsam mit der Fee Maleficent k&#246mmert sie sich um das Reich. Als K&#246;nigin Ingrith auftaucht, kommt Maleficents...",
+      "image":"img/Maleficent.jpg"
+    },
+
+    {
+      "name":"Aladdin",
+      "desc":"Der Stra&#223;endieb Aladdin (Mena Massoud) macht mit Vorliebe mit seinem Affen Abu die Stra&#223;en von Agrabah im fernen Morgenland unsicher. Auf den Basaren der Stadt ist kein noch so wertvoll aussehender Gegenstand vor ihm....",
+      "image":"img/aladdin.jpg"
+    },
+
+    {
+      "name":"Avengers",
+      "desc":"Nach den vorangegangenen Ereignissen liegt das Universum dank des Titanen Thanos in Schutt und Asche. Die &#252;brig gebliebenen Avengers - Thor, Black Widow, Captain America ....",
+      "image":"img/Avengers.jpg"
+    },
+
+    {
+      "name":"Crazy Rich",
+      "desc":"Die amerikanische Professorin Rachel begleitet ihren langj&#228;hrigen Lebensgef&#228;hrten Nick f&#252;r einen Familienbesuch nach Asien. Rachel wird in das Glamour-Leben....",
+      "image":"img/crazyRich.jpg"
+    },
+
+    {
+      "name":"Iron Man",
+      "desc":"Tony Stark, reicher Erbe des Technologie-Konzerns Stark Industries, wird in Afghanistan gefangen genommen. Mit einer selbst gebauten R&#252;stung kann er fliehen. Zur&#252;ck in Amerika will...",
+      "image":"img/ironMan.jpg"
+    }
+
+
+  ]
