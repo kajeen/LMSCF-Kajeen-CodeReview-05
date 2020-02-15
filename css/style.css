@@ -26,6 +26,10 @@
 .alignButton{
 	float: right;
 }
+.sortieren{
+	display: flex;
+	width: 15%;
+}
 
 
 
